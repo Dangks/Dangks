@@ -3,7 +3,7 @@
 
 <h2 align="center">
   <a href="https:///">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);哇！恭喜你发现了一个神秘博主！&center=true&size=27">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=echo%20%22Hello%2C%20World!%22;哇！恭喜你发现了一个神秘博主！&center=true&size=27">
   </a>
 </h2>
 
@@ -20,7 +20,7 @@
   
 ![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-![PHP Badge](https://img.shields.io/badge/PHP-White?logo=php&logoSize=auto&labelColor=%23000000)
+![PHP Badge](https://img.shields.io/badge/PHP-White?logo=php&logoSize=auto&labelColor=fff)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 <!--![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
@@ -36,7 +36,6 @@
 
 ![Xiaomi Badge](https://img.shields.io/badge/Xiaomi-FF6900?logo=xiaomi&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
-![ASUS Badge](https://img.shields.io/badge/-181717?style=for-the-badge&logo=asus&logoSize=auto)
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
 ![Visual Studio Code Badge](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=flat)
 ![Adobe Photoshop Badge](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=fff&style=flat)
